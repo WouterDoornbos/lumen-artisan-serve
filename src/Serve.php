@@ -1,6 +1,6 @@
 <?php
 
-namespace Mlntn\Console\Commands;
+namespace WouterDoornbos\Console\Commands;
 
 use Illuminate\Console\Command;
 use Illuminate\Support\Env;
