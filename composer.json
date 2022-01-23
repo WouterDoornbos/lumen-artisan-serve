@@ -1,5 +1,5 @@
 {
-  "name": "mlntn/lumen-artisan-serve",
+  "name": "WouterDoornbos/lumen-artisan-serve",
   "type": "library",
   "description": "artisan serve for Lumen projects",
   "keywords": ["lumen","artisan"],
