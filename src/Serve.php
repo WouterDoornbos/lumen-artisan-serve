@@ -40,7 +40,7 @@ class Serve extends Command
      */
     public function handle()
     {
-        chdir(public_path());
+        //chdir(public_path());
 
         $this->line("<info>Starting Lumen development server:</info> http://{$this->host()}:{$this->port()}");
 
